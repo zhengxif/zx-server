@@ -1,0 +1,21 @@
+{
+  "name": "zx-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": "./bin/www",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhengxif/zx-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhengxif/zx-server/issues"
+  },
+  "homepage": "https://github.com/zhengxif/zx-server#readme"
+}
