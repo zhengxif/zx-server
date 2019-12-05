@@ -1,3 +1,7 @@
-#! /usr/bin/env/ node
+#!/usr/bin/env node
 
-console.log('hello')
+const Server = require('../static-server');
+
+
+let server = new Server({ port: 4000 });
+server.start();
